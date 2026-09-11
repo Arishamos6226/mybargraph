@@ -1,0 +1,12 @@
+/* src/components/MyBargraph.css */
+.bargraph-container {
+    background-color: #e0e0e0;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 20px;
+}
+
+.bargraph-bar {
+    background-color: #76c7c0;
+    height: 100%;
+}
